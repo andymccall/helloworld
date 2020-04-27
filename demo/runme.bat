@@ -1,0 +1,1 @@
+CSpect.exe -s14 -w3 -zxnext -mmc=.\helloworld.sna
